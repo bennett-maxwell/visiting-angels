@@ -162,13 +162,273 @@
     }
   ],
   "pinVerification": {
-    "run_at": "2026-09-14T17:40:00Z",
-    "tolerance_km": 50,
-    "pass_count": 16,
-    "total": 16,
-    "source": "Nominatim structured geocode re-run (independent of first pass)"
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+    "run_utc": "2026-09-15T02:05:10.417750+00:00",
+    "pins_total": 16,
+    "pins_verified": 16,
+    "pins_mismatch": 0,
+    "pins_unverifiable": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Birmingham",
+        "state": "AL",
+        "stored": [
+          33.5207,
+          -86.8024
+        ],
+        "geocoded": [
+          33.520682,
+          -86.802433
+        ],
+        "geocode_query": "Birmingham, Alabama, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "stored": [
+          40.7596,
+          -111.8868
+        ],
+        "geocoded": [
+          40.75962,
+          -111.886797
+        ],
+        "geocode_query": "Salt Lake City, Utah, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Phoenix",
+        "state": "AZ",
+        "stored": [
+          33.4484,
+          -112.0741
+        ],
+        "geocoded": [
+          33.448437,
+          -112.074141
+        ],
+        "geocode_query": "Phoenix, Arizona, United States",
+        "distance_km": 0.01,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Little Rock",
+        "state": "AR",
+        "stored": [
+          34.7465,
+          -92.2896
+        ],
+        "geocoded": [
+          34.746507,
+          -92.289627
+        ],
+        "geocode_query": "Little Rock, Arkansas, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Sacramento",
+        "state": "CA",
+        "stored": [
+          38.5811,
+          -121.4939
+        ],
+        "geocoded": [
+          38.581061,
+          -121.493895
+        ],
+        "geocode_query": "Sacramento, California, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Miami",
+        "state": "FL",
+        "stored": [
+          25.7742,
+          -80.1936
+        ],
+        "geocoded": [
+          25.774157,
+          -80.193597
+        ],
+        "geocode_query": "Miami, Florida, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Atlanta",
+        "state": "GA",
+        "stored": [
+          33.7545,
+          -84.3898
+        ],
+        "geocoded": [
+          33.754466,
+          -84.389815
+        ],
+        "geocode_query": "Atlanta, Georgia, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Chicago",
+        "state": "IL",
+        "stored": [
+          41.8756,
+          -87.6244
+        ],
+        "geocoded": [
+          41.875562,
+          -87.624421
+        ],
+        "geocode_query": "Chicago, Illinois, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 8,
+        "city": "Indianapolis",
+        "state": "IN",
+        "stored": [
+          39.7683,
+          -86.1584
+        ],
+        "geocoded": [
+          39.768333,
+          -86.15835
+        ],
+        "geocode_query": "Indianapolis, Indiana, United States",
+        "distance_km": 0.01,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 9,
+        "city": "Boston",
+        "state": "MA",
+        "stored": [
+          42.3588,
+          -71.0578
+        ],
+        "geocoded": [
+          42.358834,
+          -71.05783
+        ],
+        "geocode_query": "Boston, Massachusetts, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 10,
+        "city": "Charlotte",
+        "state": "NC",
+        "stored": [
+          35.2272,
+          -80.8431
+        ],
+        "geocoded": [
+          35.227209,
+          -80.843083
+        ],
+        "geocode_query": "Charlotte, North Carolina, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 11,
+        "city": "Columbus",
+        "state": "OH",
+        "stored": [
+          39.9623,
+          -83.0007
+        ],
+        "geocoded": [
+          39.96226,
+          -83.000707
+        ],
+        "geocode_query": "Columbus, Ohio, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 12,
+        "city": "Nashville",
+        "state": "TN",
+        "stored": [
+          36.1623,
+          -86.7743
+        ],
+        "geocoded": [
+          36.162277,
+          -86.774298
+        ],
+        "geocode_query": "Nashville, Tennessee, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 13,
+        "city": "Richmond",
+        "state": "VA",
+        "stored": [
+          37.5385,
+          -77.4343
+        ],
+        "geocoded": [
+          37.538509,
+          -77.43428
+        ],
+        "geocode_query": "Richmond, Virginia, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 14,
+        "city": "Seattle",
+        "state": "WA",
+        "stored": [
+          47.6038,
+          -122.3301
+        ],
+        "geocoded": [
+          47.603832,
+          -122.330062
+        ],
+        "geocode_query": "Seattle, Washington, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 15,
+        "city": "Bryn Mawr",
+        "state": "PA",
+        "stored": [
+          40.022,
+          -75.3194
+        ],
+        "geocoded": [
+          40.023825,
+          -75.317341
+        ],
+        "geocode_query": "Bryn Mawr, Pennsylvania, United States",
+        "distance_km": 0.27,
+        "status": "VERIFIED"
+      }
+    ]
   },
-  "pinsUpdatedAt": "2026-09-14T17:40:00Z",
+  "pinsUpdatedAt": "2026-09-15T02:05:10.417750+00:00",
   "risk_score": 23,
   "risk_score_method": "base 10 + litigation 8 (five disclosed matters: two pending, one $5M settlement, two franchisor-v-franchisee) + capital intensity 2 (ceiling $171,150) + ongoing fee load 4 (3.5% royalty + 2.5% ad fund = 6.0%) + territory 4 (protected but not exclusive; metro crossover permitted) + growth stagnation 3 (net +9 outlets 2023-2025) - Item-19 breadth 2 (550 franchisees, revenue-only figures) - audited financials 2 (Exhibit B) - no bankruptcy 1 - system longevity 3 (franchising since 1998) = 23",
   "fields": [
@@ -284,7 +544,7 @@
     },
     {
       "name": "transferFee",
-      "value": "$9,500–$25,000 (or 2.5% of sale price, if greater)",
+      "value": "$9,500\u2013$25,000 (or 2.5% of sale price, if greater)",
       "cite": "FDD Item 6, p.18 (by sale price of business)"
     },
     {
@@ -352,5 +612,56 @@
   "hq_source": "FDD Item 1, p.8 (principal place of business; Salad-House rule applied)",
   "extraction_timestamp_utc": "2026-09-14T17:40:02Z",
   "extractor": "miner=visiting-angels-build",
-  "displayName": "Visiting Angels"
+  "displayName": "Visiting Angels",
+  "risk_method": "base 10 + litigation 8 + capital_intensity 2 + ongoing_fee_load 4 + territory 4 + growth_stagnation 3 - item19_breadth 2 - audited_financials 2 - no_bankruptcy 1 - system_longevity 3 = 23",
+  "risk_components": [
+    {
+      "name": "litigation",
+      "weight": 8,
+      "note": "five disclosed matters (FDD Item 3)"
+    },
+    {
+      "name": "capital_intensity",
+      "weight": 2,
+      "note": "ceiling $171,150 (FDD Item 7)"
+    },
+    {
+      "name": "ongoing_fee_load",
+      "weight": 4,
+      "note": "3.5% + 2.5% (FDD Item 6)"
+    },
+    {
+      "name": "territory",
+      "weight": 4,
+      "note": "protected, not exclusive (FDD Item 12)"
+    },
+    {
+      "name": "growth_stagnation",
+      "weight": 3,
+      "note": "net +9, 2023-2025 (FDD Item 20)"
+    },
+    {
+      "name": "item19_breadth",
+      "weight": -2,
+      "note": "550 franchisees, revenue-only (FDD Item 19)"
+    },
+    {
+      "name": "audited_financials",
+      "weight": -2,
+      "note": "FDD Item 21"
+    },
+    {
+      "name": "no_bankruptcy",
+      "weight": -1,
+      "note": "FDD Item 4"
+    },
+    {
+      "name": "system_longevity",
+      "weight": -3,
+      "note": "1998 (FDD Item 1)"
+    }
+  ],
+  "risk_source": "page Method text",
+  "logoUrl": "https://cdn2.visitingangels.com/corporate/VA_Logo.svg",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }
