@@ -1,667 +1,669 @@
 {
-  "slug": "visiting-angels",
-  "brand": "Visiting Angels",
-  "live_url": "https://bennett-maxwell.github.io/visiting-angels/",
-  "category": "Home Care / Senior Care",
-  "corporateAddress": "937 Haverford Road, Suite 200, Bryn Mawr, PA 19010",
-  "corporateCity": "Bryn Mawr",
-  "corporateState": "PA",
-  "corporateZip": "19010",
-  "description": "Visiting Angels is a non-medical home care franchise founded in 1998 in Bryn Mawr, Pennsylvania. Franchisees provide in-home caregiving services to adult clients, employing caregivers who assist with daily living activities such as bathing, dressing, and personal care. The system totaled 541 franchised outlets at the end of 2025 with no company-owned units. Every fact on this page is sourced from the Living Assistance Services, Inc. 2026 Franchise Disclosure Document (issued April 20, 2026), with Item and page citations.",
-  "websiteUrl": "https://www.visitingangels.com/",
-  "fddYear": 2026,
-  "fdd_issued": "2026-04-20",
-  "fdd_filename": "visiting-angels.pdf",
-  "fdd_sha256": "edf76d72908757c19744a091eac83ec63eb9c075c6e6c1f426b583fc7457f45a",
-  "fdd_txt_sha256": "e3bba1abd5249c4d071c556b2f3cffdc650a2007adf469e7242136ed8ead8d5c",
-  "franchiseFee": 64950,
-  "totalInvestmentMin": 125460,
-  "totalInvestmentMax": 171150,
-  "royaltyPercent": "3.5%",
-  "adFee": "2.5%",
-  "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "three-state not_disclosed_verified; grep over fdd.txt returned 0 hits for 'net worth'/'net-worth'/'financial requirement'",
-  "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "three-state not_disclosed_verified; grep over fdd.txt returned 0 hits for 'liquid capital'",
-  "item12": "protected",
-  "territoryDescription": "Protected Territory by zip-code boundaries, sized by population (100K/200K/325K tiers); NOT exclusive; no competition from other Visiting Angels franchisees on referral-source marketing; no company-owned outlets compete.",
-  "totalUnits": 541,
-  "openLocations": 541,
-  "item20_fdd_count": 541,
-  "item20PinCount": 541,
-  "item20_reconciliation": "BASELINE tier: 16 featured pins (15 Exhibit-C franchisee locations + HQ), honestly labeled as a featured selection, not the 541-outlet census. STRICT exact-count not claimed.",
-  "pins": [
-    {
-      "label": "Birmingham, AL",
-      "city": "Birmingham",
-      "state": "AL",
-      "lat": 33.5207,
-      "lng": -86.8024,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Salt Lake City, UT",
-      "city": "Salt Lake City",
-      "state": "UT",
-      "lat": 40.7596,
-      "lng": -111.8868,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Phoenix, AZ",
-      "city": "Phoenix",
-      "state": "AZ",
-      "lat": 33.4484,
-      "lng": -112.0741,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Little Rock, AR",
-      "city": "Little Rock",
-      "state": "AR",
-      "lat": 34.7465,
-      "lng": -92.2896,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Sacramento, CA",
-      "city": "Sacramento",
-      "state": "CA",
-      "lat": 38.5811,
-      "lng": -121.4939,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Miami, FL",
-      "city": "Miami",
-      "state": "FL",
-      "lat": 25.7742,
-      "lng": -80.1936,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Atlanta, GA",
-      "city": "Atlanta",
-      "state": "GA",
-      "lat": 33.7545,
-      "lng": -84.3898,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Chicago, IL",
-      "city": "Chicago",
-      "state": "IL",
-      "lat": 41.8756,
-      "lng": -87.6244,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Indianapolis, IN",
-      "city": "Indianapolis",
-      "state": "IN",
-      "lat": 39.7683,
-      "lng": -86.1584,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Boston, MA",
-      "city": "Boston",
-      "state": "MA",
-      "lat": 42.3588,
-      "lng": -71.0578,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Charlotte, NC",
-      "city": "Charlotte",
-      "state": "NC",
-      "lat": 35.2272,
-      "lng": -80.8431,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Columbus, OH",
-      "city": "Columbus",
-      "state": "OH",
-      "lat": 39.9623,
-      "lng": -83.0007,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Nashville, TN",
-      "city": "Nashville",
-      "state": "TN",
-      "lat": 36.1623,
-      "lng": -86.7743,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Richmond, VA",
-      "city": "Richmond",
-      "state": "VA",
-      "lat": 37.5385,
-      "lng": -77.4343,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Seattle, WA",
-      "city": "Seattle",
-      "state": "WA",
-      "lat": 47.6038,
-      "lng": -122.3301,
-      "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
-    },
-    {
-      "label": "Bryn Mawr, PA",
-      "city": "Bryn Mawr",
-      "state": "PA",
-      "lat": 40.022,
-      "lng": -75.3194,
-      "source": "FDD Item 1 principal place of business (printed p.8)",
-      "hq": true
-    }
-  ],
-  "pinVerification": {
-    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
-    "run_utc": "2026-09-15T02:05:10.417750+00:00",
-    "pins_total": 16,
-    "pins_verified": 16,
-    "pins_mismatch": 0,
-    "pins_unverifiable": 0,
-    "all_verified": true,
-    "per_pin": [
-      {
-        "pin": 0,
-        "city": "Birmingham",
-        "state": "AL",
-        "stored": [
-          33.5207,
-          -86.8024
-        ],
-        "geocoded": [
-          33.520682,
-          -86.802433
-        ],
-        "geocode_query": "Birmingham, Alabama, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 1,
-        "city": "Salt Lake City",
-        "state": "UT",
-        "stored": [
-          40.7596,
-          -111.8868
-        ],
-        "geocoded": [
-          40.75962,
-          -111.886797
-        ],
-        "geocode_query": "Salt Lake City, Utah, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 2,
-        "city": "Phoenix",
-        "state": "AZ",
-        "stored": [
-          33.4484,
-          -112.0741
-        ],
-        "geocoded": [
-          33.448437,
-          -112.074141
-        ],
-        "geocode_query": "Phoenix, Arizona, United States",
-        "distance_km": 0.01,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 3,
-        "city": "Little Rock",
-        "state": "AR",
-        "stored": [
-          34.7465,
-          -92.2896
-        ],
-        "geocoded": [
-          34.746507,
-          -92.289627
-        ],
-        "geocode_query": "Little Rock, Arkansas, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 4,
-        "city": "Sacramento",
-        "state": "CA",
-        "stored": [
-          38.5811,
-          -121.4939
-        ],
-        "geocoded": [
-          38.581061,
-          -121.493895
-        ],
-        "geocode_query": "Sacramento, California, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 5,
-        "city": "Miami",
-        "state": "FL",
-        "stored": [
-          25.7742,
-          -80.1936
-        ],
-        "geocoded": [
-          25.774157,
-          -80.193597
-        ],
-        "geocode_query": "Miami, Florida, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 6,
-        "city": "Atlanta",
-        "state": "GA",
-        "stored": [
-          33.7545,
-          -84.3898
-        ],
-        "geocoded": [
-          33.754466,
-          -84.389815
-        ],
-        "geocode_query": "Atlanta, Georgia, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 7,
-        "city": "Chicago",
-        "state": "IL",
-        "stored": [
-          41.8756,
-          -87.6244
-        ],
-        "geocoded": [
-          41.875562,
-          -87.624421
-        ],
-        "geocode_query": "Chicago, Illinois, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 8,
-        "city": "Indianapolis",
-        "state": "IN",
-        "stored": [
-          39.7683,
-          -86.1584
-        ],
-        "geocoded": [
-          39.768333,
-          -86.15835
-        ],
-        "geocode_query": "Indianapolis, Indiana, United States",
-        "distance_km": 0.01,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 9,
-        "city": "Boston",
-        "state": "MA",
-        "stored": [
-          42.3588,
-          -71.0578
-        ],
-        "geocoded": [
-          42.358834,
-          -71.05783
-        ],
-        "geocode_query": "Boston, Massachusetts, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 10,
-        "city": "Charlotte",
-        "state": "NC",
-        "stored": [
-          35.2272,
-          -80.8431
-        ],
-        "geocoded": [
-          35.227209,
-          -80.843083
-        ],
-        "geocode_query": "Charlotte, North Carolina, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 11,
-        "city": "Columbus",
-        "state": "OH",
-        "stored": [
-          39.9623,
-          -83.0007
-        ],
-        "geocoded": [
-          39.96226,
-          -83.000707
-        ],
-        "geocode_query": "Columbus, Ohio, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 12,
-        "city": "Nashville",
-        "state": "TN",
-        "stored": [
-          36.1623,
-          -86.7743
-        ],
-        "geocoded": [
-          36.162277,
-          -86.774298
-        ],
-        "geocode_query": "Nashville, Tennessee, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 13,
-        "city": "Richmond",
-        "state": "VA",
-        "stored": [
-          37.5385,
-          -77.4343
-        ],
-        "geocoded": [
-          37.538509,
-          -77.43428
-        ],
-        "geocode_query": "Richmond, Virginia, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 14,
-        "city": "Seattle",
-        "state": "WA",
-        "stored": [
-          47.6038,
-          -122.3301
-        ],
-        "geocoded": [
-          47.603832,
-          -122.330062
-        ],
-        "geocode_query": "Seattle, Washington, United States",
-        "distance_km": 0.0,
-        "status": "VERIFIED"
-      },
-      {
-        "pin": 15,
-        "city": "Bryn Mawr",
-        "state": "PA",
-        "stored": [
-          40.022,
-          -75.3194
-        ],
-        "geocoded": [
-          40.023825,
-          -75.317341
-        ],
-        "geocode_query": "Bryn Mawr, Pennsylvania, United States",
-        "distance_km": 0.27,
-        "status": "VERIFIED"
-      }
-    ]
+ "slug": "visiting-angels",
+ "brand": "Visiting Angels",
+ "live_url": "https://bennett-maxwell.github.io/visiting-angels/",
+ "category": "Home Care / Senior Care",
+ "corporateAddress": "937 Haverford Road, Suite 200, Bryn Mawr, PA 19010",
+ "corporateCity": "Bryn Mawr",
+ "corporateState": "PA",
+ "corporateZip": "19010",
+ "description": "Visiting Angels is a non-medical home care franchise founded in 1998 in Bryn Mawr, Pennsylvania. Franchisees provide in-home caregiving services to adult clients, employing caregivers who assist with daily living activities such as bathing, dressing, and personal care. The system totaled 541 franchised outlets at the end of 2025 with no company-owned units. Every fact on this page is sourced from the Living Assistance Services, Inc. 2026 Franchise Disclosure Document (issued April 20, 2026), with Item and page citations.",
+ "websiteUrl": "https://www.visitingangels.com/",
+ "fddYear": 2026,
+ "fdd_issued": "2026-04-20",
+ "fdd_filename": "visiting-angels.pdf",
+ "fdd_sha256": "edf76d72908757c19744a091eac83ec63eb9c075c6e6c1f426b583fc7457f45a",
+ "fdd_txt_sha256": "e3bba1abd5249c4d071c556b2f3cffdc650a2007adf469e7242136ed8ead8d5c",
+ "franchiseFee": 64950,
+ "totalInvestmentMin": 125460,
+ "totalInvestmentMax": 171150,
+ "royaltyPercent": "3.5%",
+ "adFee": "2.5%",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "three-state not_disclosed_verified; grep over fdd.txt returned 0 hits for 'net worth'/'net-worth'/'financial requirement'",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "three-state not_disclosed_verified; grep over fdd.txt returned 0 hits for 'liquid capital'",
+ "item12": "protected",
+ "territoryDescription": "Protected Territory by zip-code boundaries, sized by population (100K/200K/325K tiers); NOT exclusive; no competition from other Visiting Angels franchisees on referral-source marketing; no company-owned outlets compete.",
+ "totalUnits": 541,
+ "openLocations": 541,
+ "item20_fdd_count": 541,
+ "item20PinCount": 541,
+ "item20_reconciliation": "BASELINE tier: 16 featured pins (15 Exhibit-C franchisee locations + HQ), honestly labeled as a featured selection, not the 541-outlet census. STRICT exact-count not claimed.",
+ "pins": [
+  {
+   "label": "Birmingham, AL",
+   "city": "Birmingham",
+   "state": "AL",
+   "lat": 33.5207,
+   "lng": -86.8024,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
   },
-  "pinsUpdatedAt": "2026-09-15T02:05:10.417750+00:00",
-  "risk_score": 23,
-  "risk_score_method": "base 10 + litigation 8 (five disclosed matters: two pending, one $5M settlement, two franchisor-v-franchisee) + capital intensity 2 (ceiling $171,150) + ongoing fee load 4 (3.5% royalty + 2.5% ad fund = 6.0%) + territory 4 (protected but not exclusive; metro crossover permitted) + growth stagnation 3 (net +9 outlets 2023-2025) - Item-19 breadth 2 (550 franchisees, revenue-only figures) - audited financials 2 (Exhibit B) - no bankruptcy 1 - system longevity 3 (franchising since 1998) = 23",
-  "fields": [
-    {
-      "name": "brand",
-      "value": "Visiting Angels",
-      "cite": "FDD Item 1, p.8 (DBA declared)"
-    },
-    {
-      "name": "legalName",
-      "value": "Living Assistance Services, Inc.",
-      "cite": "FDD cover, p.1; FDD Item 1, p.8"
-    },
-    {
-      "name": "slug",
-      "value": "visiting-angels",
-      "cite": "derived from DBA; regex-validated"
-    },
-    {
-      "name": "category",
-      "value": "Home Care / Senior Care",
-      "cite": "FDD Item 1, p.8 (non-medical home care giving services)"
-    },
-    {
-      "name": "yearFounded",
-      "value": 1998,
-      "cite": "FDD Item 1, p.8 (began offering franchises September 1998)"
-    },
-    {
-      "name": "description",
-      "value": "Visiting Angels is a non-medical home care franchise founded in 1998 in Bryn Mawr, Pennsylvania. Franchisees provide in-home caregiving services to adult clients, employing caregivers who assist with daily living activities such as bathing, dressing, and personal care. The system totaled 541 franchised outlets at the end of 2025 with no company-owned units. Every fact on this page is sourced from the Living Assistance Services, Inc. 2026 Franchise Disclosure Document (issued April 20, 2026), with Item and page citations.",
-      "cite": "miner-composed from FDD Items 1/20; length/banned-phrase/clause-checked"
-    },
-    {
-      "name": "websiteUrl",
-      "value": "https://www.visitingangels.com/",
-      "cite": "FDD cover, p.1"
-    },
-    {
-      "name": "corporateAddress",
-      "value": "937 Haverford Road, Suite 200, Bryn Mawr, PA 19010",
-      "cite": "FDD Item 1, p.8 (principal place of business)"
-    },
-    {
-      "name": "corporateCity",
-      "value": "Bryn Mawr",
-      "cite": "FDD Item 1, p.8"
-    },
-    {
-      "name": "corporateState",
-      "value": "PA",
-      "cite": "FDD Item 1, p.8"
-    },
-    {
-      "name": "corporateZip",
-      "value": "19010",
-      "cite": "FDD Item 1, p.8"
-    },
-    {
-      "name": "franchiseFee",
-      "value": 64950,
-      "cite": "FDD Item 5, p.12 ($64,950 for standard 200K-pop Protected Territory; range $51,950-$89,950)"
-    },
-    {
-      "name": "franchiseFeeRange",
-      "value": "51950-89950",
-      "cite": "FDD Item 5, p.12 ($51,950 up to 100K pop; $64,950 up to 200K; $89,950 at 325K pop)"
-    },
-    {
-      "name": "totalInvestmentMin",
-      "value": 125460,
-      "cite": "FDD cover, p.1; FDD Item 7, p.25"
-    },
-    {
-      "name": "totalInvestmentMax",
-      "value": 171150,
-      "cite": "FDD cover, p.1; FDD Item 7, p.25"
-    },
-    {
-      "name": "royaltyPercent",
-      "value": "3.5%",
-      "cite": "FDD Item 6, p.13 (3.25% after $125K/mo; 3.0% after $225K/mo; plus tiered monthly minimums)"
-    },
-    {
-      "name": "adFee",
-      "value": "2.5%",
-      "cite": "FDD Item 6, pp.13-14 ($425/mo minimum or 2.5% of gross revenues if higher; 2.25%/2.0% at volume tiers)"
-    },
-    {
-      "name": "netWorthRequirement",
-      "value": "not disclosed in FDD",
-      "cite": "three-state: not_disclosed_verified; grep over fdd.txt: 'net worth'=0, 'net-worth'=0, 'financial requirement'=0"
-    },
-    {
-      "name": "liquidCapitalRequirement",
-      "value": "not disclosed in FDD",
-      "cite": "three-state: not_disclosed_verified; grep over fdd.txt: 'liquid capital'=0"
-    },
-    {
-      "name": "item12",
-      "value": "protected",
-      "cite": "FDD Item 12, p.49 (Protected Territory; 'You will not receive an exclusive territory')"
-    },
-    {
-      "name": "territoryDescription",
-      "value": "Protected Territory by zip-code boundaries, sized by population (100K/200K/325K tiers); NOT exclusive; no competition from other Visiting Angels franchisees on referral-source marketing; no company-owned outlets compete.",
-      "cite": "FDD Item 12, pp.49-50"
-    },
-    {
-      "name": "franchiseTerm",
-      "value": "10 years",
-      "cite": "FDD Item 17 via Exhibit A franchise agreement (\u00a7Term); initial term ten (10) years"
-    },
-    {
-      "name": "transferFee",
-      "value": "$9,500\u2013$25,000 (or 2.5% of sale price, if greater)",
-      "cite": "FDD Item 6, p.18 (by sale price of business)"
-    },
-    {
-      "name": "training",
-      "value": "approx. 5 days",
-      "cite": "Exhibit A (franchise agreement) \u2014 required training approx. 5 days"
-    },
-    {
-      "name": "financingOffered",
-      "value": "No",
-      "cite": "FDD Item 7, p.25; Item 10, p.36 (we do not offer financing)"
-    },
-    {
-      "name": "item19",
-      "value": "2025 Revenue vs Longevity Chart: 550 franchisees; revenue ranges by months-since-training; 9 agencies over $10M, 16 at $7-10M, 20 at $5-7M; 508 agencies at 73+ months; revenue-only figures (no profit/expense breakdown)",
-      "cite": "FDD Item 19, pp.64-65"
-    },
-    {
-      "name": "item20_fdd_count",
-      "value": 541,
-      "cite": "FDD Item 20 Table No.1, p.66 (541 franchised outlets at end of 2025; 0 company-owned)"
-    },
-    {
-      "name": "item20_outlet_history",
-      "value": "2023: 532->538 (+6); 2024: 538->539 (+1); 2025: 539->541 (+2); 0 company-owned all years",
-      "cite": "FDD Item 20 Table No.1, p.66"
-    },
-    {
-      "name": "litigation",
-      "value": "5 disclosed matters: Vinchesi v. LASI (CT 2025, pending); Jones/Snowdon v. LAS (PA, settled 2025, $5M); Parker v. Stafford/LAS (CA 2023, pending); LAS v. Myers/Caregivers of Ohio (E.D. Pa. 2021, settled 2023-24); LAS v. Block (E.D. Pa. 2023, settled $25K)",
-      "cite": "FDD Item 3, pp.10-11"
-    },
-    {
-      "name": "bankruptcy",
-      "value": "None disclosed",
-      "cite": "FDD Item 4, p.12 (no bankruptcy information required to be disclosed)"
-    },
-    {
-      "name": "leadership",
-      "value": "Lawrence Meigs, President/CEO (1998-present); Scott Parrish, EVP; Karon Austin, SVP Operations; David Ritterling, SVP Development",
-      "cite": "FDD Item 2, p.10"
-    },
-    {
-      "name": "totalUnits",
-      "value": 541,
-      "cite": "FDD Item 20 Table No.1, p.66"
-    },
-    {
-      "name": "openLocations",
-      "value": 541,
-      "cite": "FDD Item 20 Table No.1, p.66"
-    },
-    {
-      "name": "item20PinCount",
-      "value": 541,
-      "cite": "FDD Item 20 Table No.1, p.66"
-    },
-    {
-      "name": "displayName",
-      "value": "Visiting Angels",
-      "cite": "same as brand (FDD Item 1, p.8 declared DBA); added 2026-09-14 CMA loop round 1 for D1-03 completeness"
-    }
-  ],
-  "field_count": 35,
-  "hq_source": "FDD Item 1, p.8 (principal place of business; Salad-House rule applied)",
-  "extraction_timestamp_utc": "2026-09-14T17:40:02Z",
-  "extractor": "miner=visiting-angels-build",
-  "displayName": "Visiting Angels",
-  "risk_method": "base 10 + litigation 8 + capital_intensity 2 + ongoing_fee_load 4 + territory 4 + growth_stagnation 3 - item19_breadth 2 - audited_financials 2 - no_bankruptcy 1 - system_longevity 3 = 23",
-  "risk_components": [
-    {
-      "name": "litigation",
-      "weight": 8,
-      "note": "five disclosed matters (FDD Item 3)"
-    },
-    {
-      "name": "capital_intensity",
-      "weight": 2,
-      "note": "ceiling $171,150 (FDD Item 7)"
-    },
-    {
-      "name": "ongoing_fee_load",
-      "weight": 4,
-      "note": "3.5% + 2.5% (FDD Item 6)"
-    },
-    {
-      "name": "territory",
-      "weight": 4,
-      "note": "protected, not exclusive (FDD Item 12)"
-    },
-    {
-      "name": "growth_stagnation",
-      "weight": 3,
-      "note": "net +9, 2023-2025 (FDD Item 20)"
-    },
-    {
-      "name": "item19_breadth",
-      "weight": -2,
-      "note": "550 franchisees, revenue-only (FDD Item 19)"
-    },
-    {
-      "name": "audited_financials",
-      "weight": -2,
-      "note": "FDD Item 21"
-    },
-    {
-      "name": "no_bankruptcy",
-      "weight": -1,
-      "note": "FDD Item 4"
-    },
-    {
-      "name": "system_longevity",
-      "weight": -3,
-      "note": "1998 (FDD Item 1)"
-    }
-  ],
-  "risk_source": "page Method text",
-  "logoUrl": "https://cdn2.visitingangels.com/corporate/VA_Logo.svg",
-  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
+  {
+   "label": "Salt Lake City, UT",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "lat": 40.7596,
+   "lng": -111.8868,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Phoenix, AZ",
+   "city": "Phoenix",
+   "state": "AZ",
+   "lat": 33.4484,
+   "lng": -112.0741,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Little Rock, AR",
+   "city": "Little Rock",
+   "state": "AR",
+   "lat": 34.7465,
+   "lng": -92.2896,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Sacramento, CA",
+   "city": "Sacramento",
+   "state": "CA",
+   "lat": 38.5811,
+   "lng": -121.4939,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Miami, FL",
+   "city": "Miami",
+   "state": "FL",
+   "lat": 25.7742,
+   "lng": -80.1936,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Atlanta, GA",
+   "city": "Atlanta",
+   "state": "GA",
+   "lat": 33.7545,
+   "lng": -84.3898,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Chicago, IL",
+   "city": "Chicago",
+   "state": "IL",
+   "lat": 41.8756,
+   "lng": -87.6244,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Indianapolis, IN",
+   "city": "Indianapolis",
+   "state": "IN",
+   "lat": 39.7683,
+   "lng": -86.1584,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Boston, MA",
+   "city": "Boston",
+   "state": "MA",
+   "lat": 42.3588,
+   "lng": -71.0578,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Charlotte, NC",
+   "city": "Charlotte",
+   "state": "NC",
+   "lat": 35.2272,
+   "lng": -80.8431,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Columbus, OH",
+   "city": "Columbus",
+   "state": "OH",
+   "lat": 39.9623,
+   "lng": -83.0007,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Nashville, TN",
+   "city": "Nashville",
+   "state": "TN",
+   "lat": 36.1623,
+   "lng": -86.7743,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Richmond, VA",
+   "city": "Richmond",
+   "state": "VA",
+   "lat": 37.5385,
+   "lng": -77.4343,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Seattle, WA",
+   "city": "Seattle",
+   "state": "WA",
+   "lat": 47.6038,
+   "lng": -122.3301,
+   "source": "FDD Exhibit C List of Franchisees (printed p.78+)"
+  },
+  {
+   "label": "Bryn Mawr, PA",
+   "city": "Bryn Mawr",
+   "state": "PA",
+   "lat": 40.022,
+   "lng": -75.3194,
+   "source": "FDD Item 1 principal place of business (printed p.8)",
+   "hq": true
+  }
+ ],
+ "pinVerification": {
+  "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+  "run_utc": "2026-09-15T02:05:10.417750+00:00",
+  "pins_total": 16,
+  "pins_verified": 16,
+  "pins_mismatch": 0,
+  "pins_unverifiable": 0,
+  "all_verified": true,
+  "per_pin": [
+   {
+    "pin": 0,
+    "city": "Birmingham",
+    "state": "AL",
+    "stored": [
+     33.5207,
+     -86.8024
+    ],
+    "geocoded": [
+     33.520682,
+     -86.802433
+    ],
+    "geocode_query": "Birmingham, Alabama, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 1,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "stored": [
+     40.7596,
+     -111.8868
+    ],
+    "geocoded": [
+     40.75962,
+     -111.886797
+    ],
+    "geocode_query": "Salt Lake City, Utah, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 2,
+    "city": "Phoenix",
+    "state": "AZ",
+    "stored": [
+     33.4484,
+     -112.0741
+    ],
+    "geocoded": [
+     33.448437,
+     -112.074141
+    ],
+    "geocode_query": "Phoenix, Arizona, United States",
+    "distance_km": 0.01,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 3,
+    "city": "Little Rock",
+    "state": "AR",
+    "stored": [
+     34.7465,
+     -92.2896
+    ],
+    "geocoded": [
+     34.746507,
+     -92.289627
+    ],
+    "geocode_query": "Little Rock, Arkansas, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 4,
+    "city": "Sacramento",
+    "state": "CA",
+    "stored": [
+     38.5811,
+     -121.4939
+    ],
+    "geocoded": [
+     38.581061,
+     -121.493895
+    ],
+    "geocode_query": "Sacramento, California, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 5,
+    "city": "Miami",
+    "state": "FL",
+    "stored": [
+     25.7742,
+     -80.1936
+    ],
+    "geocoded": [
+     25.774157,
+     -80.193597
+    ],
+    "geocode_query": "Miami, Florida, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 6,
+    "city": "Atlanta",
+    "state": "GA",
+    "stored": [
+     33.7545,
+     -84.3898
+    ],
+    "geocoded": [
+     33.754466,
+     -84.389815
+    ],
+    "geocode_query": "Atlanta, Georgia, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 7,
+    "city": "Chicago",
+    "state": "IL",
+    "stored": [
+     41.8756,
+     -87.6244
+    ],
+    "geocoded": [
+     41.875562,
+     -87.624421
+    ],
+    "geocode_query": "Chicago, Illinois, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 8,
+    "city": "Indianapolis",
+    "state": "IN",
+    "stored": [
+     39.7683,
+     -86.1584
+    ],
+    "geocoded": [
+     39.768333,
+     -86.15835
+    ],
+    "geocode_query": "Indianapolis, Indiana, United States",
+    "distance_km": 0.01,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 9,
+    "city": "Boston",
+    "state": "MA",
+    "stored": [
+     42.3588,
+     -71.0578
+    ],
+    "geocoded": [
+     42.358834,
+     -71.05783
+    ],
+    "geocode_query": "Boston, Massachusetts, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 10,
+    "city": "Charlotte",
+    "state": "NC",
+    "stored": [
+     35.2272,
+     -80.8431
+    ],
+    "geocoded": [
+     35.227209,
+     -80.843083
+    ],
+    "geocode_query": "Charlotte, North Carolina, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 11,
+    "city": "Columbus",
+    "state": "OH",
+    "stored": [
+     39.9623,
+     -83.0007
+    ],
+    "geocoded": [
+     39.96226,
+     -83.000707
+    ],
+    "geocode_query": "Columbus, Ohio, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 12,
+    "city": "Nashville",
+    "state": "TN",
+    "stored": [
+     36.1623,
+     -86.7743
+    ],
+    "geocoded": [
+     36.162277,
+     -86.774298
+    ],
+    "geocode_query": "Nashville, Tennessee, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 13,
+    "city": "Richmond",
+    "state": "VA",
+    "stored": [
+     37.5385,
+     -77.4343
+    ],
+    "geocoded": [
+     37.538509,
+     -77.43428
+    ],
+    "geocode_query": "Richmond, Virginia, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 14,
+    "city": "Seattle",
+    "state": "WA",
+    "stored": [
+     47.6038,
+     -122.3301
+    ],
+    "geocoded": [
+     47.603832,
+     -122.330062
+    ],
+    "geocode_query": "Seattle, Washington, United States",
+    "distance_km": 0.0,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 15,
+    "city": "Bryn Mawr",
+    "state": "PA",
+    "stored": [
+     40.022,
+     -75.3194
+    ],
+    "geocoded": [
+     40.023825,
+     -75.317341
+    ],
+    "geocode_query": "Bryn Mawr, Pennsylvania, United States",
+    "distance_km": 0.27,
+    "status": "VERIFIED"
+   }
+  ]
+ },
+ "pinsUpdatedAt": "2026-09-15T02:05:10.417750+00:00",
+ "risk_score": 23,
+ "risk_score_method": "base 10 + litigation 8 (five disclosed matters: two pending, one $5M settlement, two franchisor-v-franchisee) + capital intensity 2 (ceiling $171,150) + ongoing fee load 4 (3.5% royalty + 2.5% ad fund = 6.0%) + territory 4 (protected but not exclusive; metro crossover permitted) + growth stagnation 3 (net +9 outlets 2023-2025) - Item-19 breadth 2 (550 franchisees, revenue-only figures) - audited financials 2 (Exhibit B) - no bankruptcy 1 - system longevity 3 (franchising since 1998) = 23",
+ "fields": [
+  {
+   "name": "brand",
+   "value": "Visiting Angels",
+   "cite": "FDD Item 1, p.8 (DBA declared)"
+  },
+  {
+   "name": "legalName",
+   "value": "Living Assistance Services, Inc.",
+   "cite": "FDD cover, p.1; FDD Item 1, p.8"
+  },
+  {
+   "name": "slug",
+   "value": "visiting-angels",
+   "cite": "derived from DBA; regex-validated"
+  },
+  {
+   "name": "category",
+   "value": "Home Care / Senior Care",
+   "cite": "FDD Item 1, p.8 (non-medical home care giving services)"
+  },
+  {
+   "name": "yearFounded",
+   "value": 1998,
+   "cite": "FDD Item 1, p.8 (began offering franchises September 1998)"
+  },
+  {
+   "name": "description",
+   "value": "Visiting Angels is a non-medical home care franchise founded in 1998 in Bryn Mawr, Pennsylvania. Franchisees provide in-home caregiving services to adult clients, employing caregivers who assist with daily living activities such as bathing, dressing, and personal care. The system totaled 541 franchised outlets at the end of 2025 with no company-owned units. Every fact on this page is sourced from the Living Assistance Services, Inc. 2026 Franchise Disclosure Document (issued April 20, 2026), with Item and page citations.",
+   "cite": "miner-composed from FDD Items 1/20; length/banned-phrase/clause-checked"
+  },
+  {
+   "name": "websiteUrl",
+   "value": "https://www.visitingangels.com/",
+   "cite": "FDD cover, p.1"
+  },
+  {
+   "name": "corporateAddress",
+   "value": "937 Haverford Road, Suite 200, Bryn Mawr, PA 19010",
+   "cite": "FDD Item 1, p.8 (principal place of business)"
+  },
+  {
+   "name": "corporateCity",
+   "value": "Bryn Mawr",
+   "cite": "FDD Item 1, p.8"
+  },
+  {
+   "name": "corporateState",
+   "value": "PA",
+   "cite": "FDD Item 1, p.8"
+  },
+  {
+   "name": "corporateZip",
+   "value": "19010",
+   "cite": "FDD Item 1, p.8"
+  },
+  {
+   "name": "franchiseFee",
+   "value": 64950,
+   "cite": "FDD Item 5, p.12 ($64,950 for standard 200K-pop Protected Territory; range $51,950-$89,950)"
+  },
+  {
+   "name": "franchiseFeeRange",
+   "value": "51950-89950",
+   "cite": "FDD Item 5, p.12 ($51,950 up to 100K pop; $64,950 up to 200K; $89,950 at 325K pop)"
+  },
+  {
+   "name": "totalInvestmentMin",
+   "value": 125460,
+   "cite": "FDD cover, p.1; FDD Item 7, p.25"
+  },
+  {
+   "name": "totalInvestmentMax",
+   "value": 171150,
+   "cite": "FDD cover, p.1; FDD Item 7, p.25"
+  },
+  {
+   "name": "royaltyPercent",
+   "value": "3.5%",
+   "cite": "FDD Item 6, p.13 (3.25% after $125K/mo; 3.0% after $225K/mo; plus tiered monthly minimums)"
+  },
+  {
+   "name": "adFee",
+   "value": "2.5%",
+   "cite": "FDD Item 6, pp.13-14 ($425/mo minimum or 2.5% of gross revenues if higher; 2.25%/2.0% at volume tiers)"
+  },
+  {
+   "name": "netWorthRequirement",
+   "value": "not disclosed in FDD",
+   "cite": "three-state: not_disclosed_verified; grep over fdd.txt: 'net worth'=0, 'net-worth'=0, 'financial requirement'=0"
+  },
+  {
+   "name": "liquidCapitalRequirement",
+   "value": "not disclosed in FDD",
+   "cite": "three-state: not_disclosed_verified; grep over fdd.txt: 'liquid capital'=0"
+  },
+  {
+   "name": "item12",
+   "value": "protected",
+   "cite": "FDD Item 12, p.49 (Protected Territory; 'You will not receive an exclusive territory')"
+  },
+  {
+   "name": "territoryDescription",
+   "value": "Protected Territory by zip-code boundaries, sized by population (100K/200K/325K tiers); NOT exclusive; no competition from other Visiting Angels franchisees on referral-source marketing; no company-owned outlets compete.",
+   "cite": "FDD Item 12, pp.49-50"
+  },
+  {
+   "name": "franchiseTerm",
+   "value": "10 years",
+   "cite": "FDD Item 17 via Exhibit A franchise agreement (§Term); initial term ten (10) years"
+  },
+  {
+   "name": "transferFee",
+   "value": "$9,500–$25,000 (or 2.5% of sale price, if greater)",
+   "cite": "FDD Item 6, p.18 (by sale price of business)"
+  },
+  {
+   "name": "training",
+   "value": "approx. 5 days",
+   "cite": "Exhibit A (franchise agreement) — required training approx. 5 days"
+  },
+  {
+   "name": "financingOffered",
+   "value": "No",
+   "cite": "FDD Item 7, p.25; Item 10, p.36 (we do not offer financing)"
+  },
+  {
+   "name": "item19",
+   "value": "2025 Revenue vs Longevity Chart: 550 franchisees; revenue ranges by months-since-training; 9 agencies over $10M, 16 at $7-10M, 20 at $5-7M; 508 agencies at 73+ months; revenue-only figures (no profit/expense breakdown)",
+   "cite": "FDD Item 19, pp.64-65"
+  },
+  {
+   "name": "item20_fdd_count",
+   "value": 541,
+   "cite": "FDD Item 20 Table No.1, p.66 (541 franchised outlets at end of 2025; 0 company-owned)"
+  },
+  {
+   "name": "item20_outlet_history",
+   "value": "2023: 532->538 (+6); 2024: 538->539 (+1); 2025: 539->541 (+2); 0 company-owned all years",
+   "cite": "FDD Item 20 Table No.1, p.66"
+  },
+  {
+   "name": "litigation",
+   "value": "5 disclosed matters: Vinchesi v. LASI (CT 2025, pending); Jones/Snowdon v. LAS (PA, settled 2025, $5M); Parker v. Stafford/LAS (CA 2023, pending); LAS v. Myers/Caregivers of Ohio (E.D. Pa. 2021, settled 2023-24); LAS v. Block (E.D. Pa. 2023, settled $25K)",
+   "cite": "FDD Item 3, pp.10-11"
+  },
+  {
+   "name": "bankruptcy",
+   "value": "None disclosed",
+   "cite": "FDD Item 4, p.12 (no bankruptcy information required to be disclosed)"
+  },
+  {
+   "name": "leadership",
+   "value": "Lawrence Meigs, President/CEO (1998-present); Scott Parrish, EVP; Karon Austin, SVP Operations; David Ritterling, SVP Development",
+   "cite": "FDD Item 2, p.10"
+  },
+  {
+   "name": "totalUnits",
+   "value": 541,
+   "cite": "FDD Item 20 Table No.1, p.66"
+  },
+  {
+   "name": "openLocations",
+   "value": 541,
+   "cite": "FDD Item 20 Table No.1, p.66"
+  },
+  {
+   "name": "item20PinCount",
+   "value": 541,
+   "cite": "FDD Item 20 Table No.1, p.66"
+  },
+  {
+   "name": "displayName",
+   "value": "Visiting Angels",
+   "cite": "same as brand (FDD Item 1, p.8 declared DBA); added 2026-09-14 CMA loop round 1 for D1-03 completeness"
+  }
+ ],
+ "field_count": 35,
+ "hq_source": "FDD Item 1, p.8 (principal place of business; Salad-House rule applied)",
+ "extraction_timestamp_utc": "2026-09-14T17:40:02Z",
+ "extractor": "miner=visiting-angels-build",
+ "displayName": "Visiting Angels",
+ "risk_method": "base 10 + litigation 8 + capital_intensity 2 + ongoing_fee_load 4 + territory 4 + growth_stagnation 3 - item19_breadth 2 - audited_financials 2 - no_bankruptcy 1 - system_longevity 3 = 23",
+ "risk_components": [
+  {
+   "name": "litigation",
+   "weight": 8,
+   "note": "five disclosed matters (FDD Item 3)"
+  },
+  {
+   "name": "capital_intensity",
+   "weight": 2,
+   "note": "ceiling $171,150 (FDD Item 7)"
+  },
+  {
+   "name": "ongoing_fee_load",
+   "weight": 4,
+   "note": "3.5% + 2.5% (FDD Item 6)"
+  },
+  {
+   "name": "territory",
+   "weight": 4,
+   "note": "protected, not exclusive (FDD Item 12)"
+  },
+  {
+   "name": "growth_stagnation",
+   "weight": 3,
+   "note": "net +9, 2023-2025 (FDD Item 20)"
+  },
+  {
+   "name": "item19_breadth",
+   "weight": -2,
+   "note": "550 franchisees, revenue-only (FDD Item 19)"
+  },
+  {
+   "name": "audited_financials",
+   "weight": -2,
+   "note": "FDD Item 21"
+  },
+  {
+   "name": "no_bankruptcy",
+   "weight": -1,
+   "note": "FDD Item 4"
+  },
+  {
+   "name": "system_longevity",
+   "weight": -3,
+   "note": "1998 (FDD Item 1)"
+  }
+ ],
+ "risk_source": "page Method text",
+ "logoUrl": "https://cdn2.visitingangels.com/corporate/VA_Logo.svg",
+ "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+ "yearFounded": 1998,
+ "yearFoundedNote": "FDD Item 1 (fdd.txt line 305: 'We were incorporated September 25, 1998'); began offering franchises September 1998 (line 323). Added by repair R1 2026-09-15; value was absent, D1-05 FAIL."
 }
